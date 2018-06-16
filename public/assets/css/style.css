@@ -1,0 +1,43 @@
+.demo-layout-transparent {
+    background: url('./News-handing.gif') center / contain;
+    min-height: 38%;
+  }
+.mdl-layout__header, .mdl-layout__drawer-button {
+    color: black;
+  }
+
+  
+  .wide-card.mdl-card {
+    width: 512px;
+ }
+
+ .material-icons.grey{
+     color:#555;
+ }
+
+ .mdl-textfield {
+     width:90%
+ }
+
+ .article_posts{
+     margin-left:7%
+ }
+
+ 
+.comments{
+    display:none;
+}
+
+.comments{
+    max-height:60%;
+    overflow:auto;
+}
+
+
+.comment-action {
+    float:right;
+  }
+
+.comment-body{
+    float:left;
+}
